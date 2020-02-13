@@ -1,0 +1,38 @@
+body  {
+    font-family: arial,sans-serif;
+    word-spacing: 15px;
+}
+
+#header {
+    margin-top: 20px;
+}
+
+#r-header {
+    float: right;
+}
+
+#google {
+    text-align: center;
+    margin-top: 9%;
+}
+
+#search {
+    text-align: left;
+    border-radius: 25px;
+    height: 35px;
+    font-size: 12pt;
+    width: 500px;
+    border: #dfe1e5 solid 1px; 
+    margin: 0 auto;
+}
+
+.google-buttons
+{
+    background-color: #f2f2f2;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: #7a706c;
+    margin: 0 auto;
+}
